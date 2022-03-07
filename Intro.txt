@@ -1,0 +1,2 @@
+All JS code files will be pushed by JScodes branch and merged to master.
+All changes(commits) made in this branch is not visible to maseter until it is merged to that.
