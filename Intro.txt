@@ -1,3 +1,5 @@
+JS means JavaScript.
 All JS code files will be pushed by JScodes branch and merged to master.
 All changes(commits) made in this branch is not visible to maseter until it is merged to that.
 After merging on github then pull that changes in master by git pull origin master, then the master on local machine will show that changes.
+
