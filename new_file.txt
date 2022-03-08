@@ -1,0 +1,2 @@
+we can make new file(let text file here) by command vi <file_name.txt>.
+git reset can remove only latest commits and cannot remove any arbitrary commit.
