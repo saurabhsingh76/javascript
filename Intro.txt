@@ -1,5 +1,2 @@
-JS means JavaScript.
 All JS code files will be pushed by JScodes branch and merged to master.
 All changes(commits) made in this branch is not visible to maseter until it is merged to that.
-After merging on github then pull that changes in master by git pull origin master, then the master on local machine will show that changes.
-if we created a pull request from branch B1 to main(but it is not merged yet), and then made new commit in branch B1 anf pushed it to main, then it will also be included in that pull request. 
